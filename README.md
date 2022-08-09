@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OMKARNPATIL
-- 👀 I’m interested in web devloper
-- 🌱 I’m currently learning php 
+- 👀 I’m interested in AUTOMATION TEST ENGINEER
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
