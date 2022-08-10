@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OMKARNPATIL
 - 👀 I’m interested in AUTOMATION TEST ENGINEER
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me omkarpatilmech@gmail.com
 
 <!---
 OMKARNPATIL/OMKARNPATIL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
